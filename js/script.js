@@ -16,7 +16,7 @@ function submition() {
   if (document.getElementById("gender").checked) {
     var gender = 'male';
   }
-  else {
+  else{
     var gender = 'female';
   }
   if (dd <= 0 || dd > 31) {
