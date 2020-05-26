@@ -29,7 +29,7 @@ A website that takes a user's birthday and calculates the day of the week they w
         ◦ INPUT: "Click Cancel Button"
         ◦ OUTPUT: "Clears and Resets the Form"
 
-#### Link to Live Site :https://wenslaus-makumba.github.io/Akan-names/ 
+#### Link to Live Site :
 
 # License
 
