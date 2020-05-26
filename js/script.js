@@ -9,7 +9,7 @@ function submition() {
   var yy = parseInt(year.toString().slice(2, 4));
   //  var cc=(yy-1)/100+1;
   var cc = Math.ceil(year / 100)
-  
+
   /* the formula */
   var result = parseInt(((cc / 4) - 2 * cc - 1) + ((5 * yy / 4)) + ((26 * (mm + 1) / 10)) + dd) % 7;
 
@@ -72,6 +72,7 @@ function submition() {
   else if (Math.round(result) == 6 || Math.round(result) == -6 && gender === 'female') {
     document.getElementById("final").innerHTML = ("You were born on Saturday, your Akan Name is " + femaleNames[6]);
   }
+
   else {
     alert("please input all data");
   }
