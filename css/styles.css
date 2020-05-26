@@ -1,0 +1,60 @@
+
+h1{
+  color:brown;
+  font-size:70px;
+  font-family: 'monospace';
+  text-align: center;
+}
+label{
+  color: rgb(18, 156, 18)
+}
+.form {
+ text-align: center;
+}
+input[type=text]{
+width: 20%;
+padding: 12px 20px;
+margin: 8px 0;
+box-sizing: border-box;
+}
+
+input[type=submit]{
+  width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  color: white;
+  background-color:blue;
+  box-shadow: 10px 10px white #34495E;
+}
+.sbmt{
+  text-align: center;
+}
+.para{
+  font-size: 10px;
+  color:white
+  
+} 
+img{
+  width:150px;
+  height:150px;
+  border-radius:50%
+}
+#img{
+  margin-left: 150px;
+}
+#last{
+  font-family:'Tangerine', cursive
+}
+#final{
+  font-size: 40px;
+}
+#flex{
+  display:flex;
+}
+
+strong{
+  color:rgb(18, 156, 18)
+}
+.container{
+  background-image: url(https://cdn.intechopen.com/books/images_new/542.jpg)
