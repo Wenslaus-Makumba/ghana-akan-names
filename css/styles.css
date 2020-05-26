@@ -52,11 +52,9 @@ img{
 #flex{
   display:flex;
 }
-
 strong{
   color:rgb(18, 156, 18)
 }
-
 .container{
   background-image: url(https://cdn.intechopen.com/books/images_new/542.jpg)
 
